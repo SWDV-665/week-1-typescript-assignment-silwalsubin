@@ -1,0 +1,13 @@
+{
+  "name": "week1-typescript-assignment-silwalsubin",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": "tsc grocery.ts"
+  },
+  "author": "Subin Silwal",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.4.4"
+  }
+}
